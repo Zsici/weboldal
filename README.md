@@ -1,0 +1,2 @@
+# weboldal
+IT gyakorlat weboldal
